@@ -15,7 +15,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 
-SECRET_KEY = 'django-insecure-)mvi1(!gonjtn5+2#ydj**qn(zi!o%3wpxsaum5uy_$l(u=h##'
+SECRET_KEY = 'django-ins 嘻嘻嘻 3wpxsaum5uy_$l(u=h##'
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
@@ -79,9 +79,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', # 数据库引擎
         'NAME': 'hotel', # 数据库名
         'USER': 'root', # 账号
-        'PASSWORD': 'szy2000', # 密码
-        'HOST': '127.0.0.1', # HOST
-        'POST': 3306, # 端口
+        'PASSWORD': ' ', # 密码
+        'HOST': ' ', # HOST
+        'POST':  , # 端口
     }
 }
 
